@@ -6,5 +6,5 @@
 	end
 	
 	def meal_choice(name = "meat")
-	  meal_choice = #{name}
+	  meal_choice = "#{name}"
 	end 
